@@ -1,0 +1,7 @@
+.cardContainer{
+    border: rgb(49, 78, 130);
+    border-style: solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
